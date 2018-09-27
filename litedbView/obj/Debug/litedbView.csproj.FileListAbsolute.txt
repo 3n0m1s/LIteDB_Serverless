@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\litedbView\litedbView\bin\Debug\litedbView.exe.config
+C:\Users\simon\source\repos\litedbView\litedbView\bin\Debug\litedbView.exe
+C:\Users\simon\source\repos\litedbView\litedbView\bin\Debug\litedbView.pdb
+C:\Users\simon\source\repos\litedbView\litedbView\bin\Debug\LiteDB.dll
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.Form1.resources
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.Properties.Resources.resources
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.csproj.CopyComplete
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.exe
+C:\Users\simon\source\repos\litedbView\litedbView\obj\Debug\litedbView.pdb
